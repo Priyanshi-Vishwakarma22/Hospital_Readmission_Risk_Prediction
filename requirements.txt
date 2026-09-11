@@ -6,4 +6,5 @@ scikit-learn
 xgboost
 imbalanced-learn
 catboost
+lightgbm
 # -e .
